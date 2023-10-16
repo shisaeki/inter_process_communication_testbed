@@ -1,4 +1,4 @@
-# linux_redirection_testbed
+# inter_process_communication_testbed
 ## fork function
 ### prototype
 ```
